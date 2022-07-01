@@ -1,0 +1,97 @@
+.penguin-size img{
+    width: 30%;
+    margin-left: 60px;
+}
+h1{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+
+
+}
+h3{
+    font-weight: bold;
+}
+.penguin-size2{
+    margin-left: 60px;
+    
+}
+
+.penguin-btn{
+    background-color: rgb(121, 192, 14);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: .5em;
+    margin-left: 110px;
+    
+    padding-right: 20px;
+  
+    
+}
+.penguin-btn2{
+    background-color: rgb(121, 192, 14);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: .5em;
+  
+    
+    padding-right: 20px;
+}
+.penguin-img img{
+    width: 300px;
+    height: 350px;
+    background-color: rgb(242, 248, 248);
+    
+    border-radius: 20px;
+    padding: 2em;
+    margin: 5px;
+ 
+
+}
+.penguin-im img{
+    width: 300px;
+    height: 350px;
+    
+    
+    border-radius: 20px;
+    padding: 2em;
+    margin: 5px;
+ 
+
+}
+.penguin-card{
+    border: none;
+    margin: 20px;
+
+}
+.ph3 h3{
+    color: rgb(252, 195, 9);
+}
+.penguin-f-img img{
+    width: 100px;
+}
+.f-img img{
+    width: 300px;
+}
+.l-img{
+    width:380px;
+    height: 370px;
+ 
+}
+.peng{
+    text-align: center;
+    margin-top: 70px;
+}
+.peng h1{
+    color:rgb(255, 197, 6)
+}
+.penguin-color{
+    background-color: #fff7ea;
+}
+.pen img{
+    width: 400px;
+   
+   
+}
